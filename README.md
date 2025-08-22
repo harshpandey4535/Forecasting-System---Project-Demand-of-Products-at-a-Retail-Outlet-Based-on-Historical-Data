@@ -1,0 +1,2 @@
+# Forecasting-System---Project-Demand-of-Products-at-a-Retail-Outlet-Based-on-Historical-Data
+This repository contains the implementation of the project “TCS iON RIO-125: Forecasting System – Project Demand of Products at a Retail Outlet Based on Historical Data.” The project focuses on developing a demand forecasting system using historical sales data to help retailers optimize inventory, reduce wastage, and improve customer satisfaction.
